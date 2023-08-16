@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800180059982",
+    "firebase_url": "https://fruit-recognition-mobile-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fruit-recognition-mobile-app",
+    "storage_bucket": "fruit-recognition-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800180059982:android:3947dea5b08fe29491681f",
+        "android_client_info": {
+          "package_name": "com.fyp.fruit_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800180059982-lf1injhs9f96ui188ss0ir07ce6l6tv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWL0vJWoeHnrTA9kJ-ac4mq71DGSnwLiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800180059982-lf1injhs9f96ui188ss0ir07ce6l6tv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800180059982-3ineitrmrpbcv876i9dgpokhf6v85mvj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fyp.mmu1181103353"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
