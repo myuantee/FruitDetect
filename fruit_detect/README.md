@@ -1,6 +1,6 @@
 # fruit_detect
 
-A new Flutter project.
+A Flutter project for fruit type and condition recognition.
 
 ## Getting Started
 

@@ -22,3 +22,6 @@ The `fruit_detect` folder contains the code for a Flutter project that uses the 
 ## Usage
 
 To use this project, first make sure you have all the required libraries installed. Then, navigate to the `fruit_detect` folder and follow the instructions above to run the Flutter project and detect fruits in images using the trained model.
+
+1. flutter emulators --launch Pixel_4_API_33 <!-- Noted that you may create an emulators before you run your flutter application -->
+2. flutter run
